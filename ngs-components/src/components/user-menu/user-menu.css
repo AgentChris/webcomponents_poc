@@ -1,0 +1,5 @@
+@import "~@natgeosociety/ngkit/dist/css/ngkit.min.css";
+
+img {
+  width: 50px;
+}
